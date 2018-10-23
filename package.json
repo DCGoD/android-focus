@@ -2,6 +2,10 @@
   "name": "cordova-plugin-android-focus",
   "version": "0.0.1",
   "description": "Listen to onDeviceWindowChanged events",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarkAMcCorkle/android-focus.git"
+  },
   "cordova": {
     "id": "cordova-plugin-android-focus",
     "platforms": ["android"]
