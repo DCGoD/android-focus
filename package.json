@@ -1,12 +1,14 @@
 {
-  "name": "android-focus",
+  "name": "cordova-plugin-android-focus",
   "version": "0.0.1",
   "description": "Listen to onDeviceWindowChanged events",
   "cordova": {
     "id": "cordova-plugin-android-focus",
-    "platforms": []
+    "platforms": ["android"]
   },
   "keywords": [
+    "cordova",
+    "focus",
     "ecosystem:cordova"
   ],
   "author": "Edibu LLC",
